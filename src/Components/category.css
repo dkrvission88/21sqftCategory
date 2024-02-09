@@ -1,0 +1,249 @@
+*{
+    margin:0px;
+    padding: 0px;
+    /* background: gainsboro; */
+}
+
+.imgc {
+   position: relative;
+}
+
+
+.imghead{
+    width:100%;
+
+    height: 250px;
+
+    filter: brightness(0.5);
+    position: relative;
+
+
+
+}
+
+/* .imghead{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(189,189,190,189);
+} */
+
+
+
+
+.bannert{
+    position: absolute;
+    top:17%;
+    left:44%;
+    padding: 10px;
+}
+
+.bannert>h2{
+    color: white;
+    font-size: 40px;
+}
+.bannert>p{
+    color: 
+    rgba(254, 204, 0, 1);
+    padding-left:28px ;
+}
+
+.btn1 ,.btn01{
+    background: rgba(255, 255, 255, 1);
+    border: none;
+    
+    margin-left: 10px;
+    border-radius: 5px;
+
+    box-shadow: 3px 5px 19px rgba(254, 204, 0, 0.1);
+}
+.mm{
+    display: inline-block;
+    font-size: 8px;
+}
+
+
+.btn01{
+    padding: 16px 40px 18px 12px;
+    
+}
+
+/* .btn01>p{
+    display: flex;
+    align-items: flex-start;
+} */
+
+.btn2{
+    background: 
+    rgba(254, 204, 0, 1);
+    padding:  4px 40px 18px 40px;
+    border: none;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+
+.btn1{
+    padding: 4px 40px 18px 40px;
+}
+
+.btn1>span,.btn2>span{
+    position: relative;
+    top:8px
+}
+
+.btn01,.txt{
+    font-size: small;
+
+}
+
+.onimage{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:-30px
+}
+
+
+.img1{
+    width: 100px;
+    /* width: 50%; */
+    height: 150px;
+    border-radius: 5px 5px 5px 5px; 
+    display: flex;
+    flex: 1;
+}
+
+.upper{
+    background: 
+    rgba(254, 204, 0, 1);
+    padding: 3px;
+    border-radius: 0px 9px 0px 9px;
+    /* display: flex; */
+
+    /* justify-content: flex-end; */
+    
+    margin-left: 311%;
+    position: relative;
+     top:1.5% 
+}
+
+.construction0{
+    /* border: 1px solid gray; */
+    display: flex;
+    /* flex: 1; */
+
+    /* display: flex; */
+    margin-right: 10px;
+    width: 34%;
+    border-radius: 9px;
+    padding-bottom: 7px;
+}
+
+
+
+.construction{
+    border: 1px solid rgba(211, 211, 211, 1);
+    display: flex;
+    /* flex: 1; */
+
+    /* display: flex; */
+    margin-right: 10px;
+    width: 34%;
+    border-radius: 9px;
+    padding-bottom: 7px;
+}
+
+.right{
+     position: relative;
+     padding-left: 10px;
+
+     /* display: flex;
+    flex: 1; */
+    /* left: -30%; */
+    /* width: 20%;  */
+} 
+.right>h4{
+    padding-top: 15px;
+}
+
+.uright1,.material-symbols-outlined{
+
+    position: relative;
+
+    top: 10px;
+    /* width: 16%; */
+
+
+}
+
+
+.sme{
+    font-size: 11px;
+}
+
+.uright{
+    display:flex;
+    justify-content: space-between;
+    margin: 10px 0px 10px 0px;
+    /* margin: 20px 20px; */
+    /* gap: 12%; */
+    background:rgba(255, 247, 228, 1) ;
+    border-radius: 2px;
+    /* padding: 5px 5px 5px 5px ; */
+    
+}
+
+.uright>p{
+    padding: 1px 4px 1px 4px;
+}
+
+.uright1{
+
+    margin-top: 12%;
+    gap: 20px;
+}
+
+.numbtn0{
+
+    padding: 12px 35px 10px 35px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(220, 220, 220, 1);
+    border-radius: 3px;
+}
+
+.numbtn{
+    padding: 0px 1px 10px 1px;
+    margin-right: 10px;
+    background: 
+    rgba(43, 42, 41, 1);
+    color: white;
+    border-radius: 3px;
+    border: none;
+
+
+}
+.numm{
+    padding: 0px 8px 0px 8px;
+    font-size: 12px;
+}
+
+
+.doubleCard{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.img1{padding-left: 10px;}
+
+/* .amd{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+ 
+
+
